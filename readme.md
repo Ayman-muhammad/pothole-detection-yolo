@@ -8,6 +8,8 @@ The system combines **YOLO-based object detection**, **ByteTrack object tracking
 
 ---
 
+<img src="Screenshot 2026-08-26 153843.png" alt="Pothole Detection & Tracking using YOLO">
+
 ## 📌 Overview
 
 Potholes are a major road-infrastructure and transportation problem. They can:
