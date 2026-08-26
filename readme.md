@@ -8,6 +8,7 @@ The system combines **YOLO-based object detection**, **ByteTrack object tracking
 
 ---
 
+<img src="Screenshot 2026-08-26 154942.png" alt="Pothole Detection & Tracking using YOLO">
 <img src="Screenshot 2026-08-26 153843.png" alt="Pothole Detection & Tracking using YOLO">
 
 ## 📌 Overview
